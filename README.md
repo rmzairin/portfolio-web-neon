@@ -4,6 +4,8 @@
 
 Eksperimen desain web bergaya **neon/cyberpunk**: dominan CSS custom (glow effect, gradient, animasi transisi) dipadukan JavaScript vanilla buat interaktivitasnya. Dibangun tanpa framework, murni dari nol.
 
+[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Klik_di_sini-ff2e88?style=for-the-badge)](https://rmzairin.github.io/Portfolio-Web-neon/)
+
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
